@@ -1,6 +1,9 @@
-.two {
-	background-image: url(https://w-dog.ru/wallpapers/9/13/552840775607328.jpg);
+.one {
+	background-image: url(https://b.3ddd.ru/media/gallery_images/567fcffc0fad3.jpeg);
 	background-repeat: no-repeat;
 	background-position: cover;
+	background-size:100%;
+	background-position: all;
 	height: 100vh;
-}
+	background-attachment: scroll;
+} 

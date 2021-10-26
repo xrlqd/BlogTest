@@ -5,13 +5,33 @@
 	text-decoration: none;
 }
 header {
-	background: blue;
-	width: 100%;
-	height: 70px;
+	background: lightblue;
+	width: 95%;
+	height: 85px;
+	margin: auto;
+	margin-bottom: -85px;
+
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
 }
 
+nav {
+	width: 550px;
+	font-size: 40px;
+	
+	display: flex;
+	justify-content: space-between;
+
+}
 footer {
-	background: brown;
+	color: white;
+	background: black;
+	background-image: 
 	width: 100%;
 	height: 100px;
+}
+
+img {
+	border-radius: 40px;
 }
